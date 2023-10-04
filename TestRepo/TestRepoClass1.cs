@@ -5,6 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace TestRepo {
-    internal class TestRepoClass {
+    internal class TestRepoClass1 {
+        public int TestMethodOne() { 
+            return 1; 
+        }
     }
 }
