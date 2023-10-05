@@ -6,5 +6,8 @@ using System.Threading.Tasks;
 
 namespace TestRepo {
     internal class TestRepoClass2 {
+        public int MinusOne(int x) { 
+            return x - 1;
+        }
     }
 }
